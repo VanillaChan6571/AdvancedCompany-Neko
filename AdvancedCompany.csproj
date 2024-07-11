@@ -30,77 +30,78 @@
 	</ItemGroup>
 	<ItemGroup>
 		<Reference Include="0Harmony">
-			<HintPath>C:\Users\info\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\cache\BepInEx-BepInExPack\5.4.2100\BepInExPack\BepInEx\core\0Harmony.dll</HintPath>
+			<HintPath>..\..\..\..\..\Games\Steam\steamapps\common\Lethal Company\BepInEx\core\0Harmony.dll</HintPath>
 		</Reference>
-		<Reference Include="Assembly-CSharp" Publicize="true">
-			<HintPath>C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\Assembly-CSharp.dll</HintPath>
-		</Reference>
-		<Reference Include="Assembly-CSharp-firstpass">
-			<HintPath>C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\Assembly-CSharp-firstpass.dll</HintPath>
+		<Reference Include="Assembly-CSharp">
+			<HintPath>..\..\..\..\..\Games\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\Assembly-CSharp.dll</HintPath>
 		</Reference>
 		<Reference Include="BepInEx">
-			<HintPath>C:\Users\info\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\cache\BepInEx-BepInExPack\5.4.2100\BepInExPack\BepInEx\core\BepInEx.dll</HintPath>
+			<HintPath>..\..\..\..\..\Games\Steam\steamapps\common\Lethal Company\BepInEx\core\BepInEx.dll</HintPath>
+		</Reference>
+		<Reference Include="Assembly-CSharp-firstpass">
+			<HintPath>..\..\..\..\..\Games\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\Assembly-CSharp-firstpass.dll</HintPath>
 		</Reference>
 		<Reference Include="BepInEx.Harmony">
-			<HintPath>C:\Users\info\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\cache\BepInEx-BepInExPack\5.4.2100\BepInExPack\BepInEx\core\BepInEx.Harmony.dll</HintPath>
+			<HintPath>..\..\..\..\..\Games\Steam\steamapps\common\Lethal Company\BepInEx\core\BepInEx.Harmony.dll</HintPath>
 		</Reference>
 		<Reference Include="BepInEx.Preloader">
-			<HintPath>C:\Users\info\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\cache\BepInEx-BepInExPack\5.4.2100\BepInExPack\BepInEx\core\BepInEx.Preloader.dll</HintPath>
+			<HintPath>..\..\..\..\..\Games\Steam\steamapps\common\Lethal Company\BepInEx\core\BepInEx.Preloader.dll</HintPath>
 		</Reference>
 		<Reference Include="ClientNetworkTransform">
-			<HintPath>C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\ClientNetworkTransform.dll</HintPath>
+			<HintPath>..\..\..\..\..\Games\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\ClientNetworkTransform.dll</HintPath>
 		</Reference>
 		<Reference Include="Coroner">
-		  <HintPath>C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\Coroner.dll</HintPath>
+		  <HintPath>..\..\..\..\..\Games\Steam\steamapps\common\Lethal Company\3rdParty\Coroner.dll</HintPath>
 		</Reference>
 		<Reference Include="DissonanceVoip">
-			<HintPath>C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\DissonanceVoip.dll</HintPath>
+			<HintPath>..\..\..\..\..\Games\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\DissonanceVoip.dll</HintPath>
 		</Reference>
 		<Reference Include="Facepunch Transport for Netcode for GameObjects">
-			<HintPath>C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\Facepunch Transport for Netcode for GameObjects.dll</HintPath>
+			<HintPath>..\..\..\..\..\Games\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\Facepunch Transport for Netcode for GameObjects.dll</HintPath>
 		</Reference>
 		<Reference Include="Facepunch.Steamworks.Win64">
-			<HintPath>C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\Facepunch.Steamworks.Win64.dll</HintPath>
+			<SpecificVersion>False</SpecificVersion>
+			<HintPath>..\..\..\..\..\Games\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\Facepunch.Steamworks.Win64.dll</HintPath>
 		</Reference>
 		<Reference Include="HarmonyXInterop">
-			<HintPath>C:\Users\info\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\cache\BepInEx-BepInExPack\5.4.2100\BepInExPack\BepInEx\core\HarmonyXInterop.dll</HintPath>
+			<HintPath>..\..\..\..\..\Games\Steam\steamapps\common\Lethal Company\BepInEx\core\HarmonyXInterop.dll</HintPath>
 		</Reference>
 		<Reference Include="LethalCompanyInputUtils">
-		  <HintPath>LethalCompanyInputUtils.dll</HintPath>
+		  <HintPath>..\..\..\..\..\Games\Steam\steamapps\common\Lethal Company\3rdParty\LethalCompanyInputUtils.dll</HintPath>
 		</Reference>
 		<Reference Include="Mono.Cecil">
-			<HintPath>C:\Users\info\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\cache\BepInEx-BepInExPack\5.4.2100\BepInExPack\BepInEx\core\Mono.Cecil.dll</HintPath>
+			<HintPath>..\..\..\..\..\Games\Steam\steamapps\common\Lethal Company\BepInEx\core\Mono.Cecil.dll</HintPath>
 		</Reference>
 		<Reference Include="Mono.Cecil.Mdb">
-			<HintPath>C:\Users\info\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\cache\BepInEx-BepInExPack\5.4.2100\BepInExPack\BepInEx\core\Mono.Cecil.Mdb.dll</HintPath>
+			<HintPath>..\..\..\..\..\Games\Steam\steamapps\common\Lethal Company\BepInEx\core\Mono.Cecil.Mdb.dll</HintPath>
 		</Reference>
 		<Reference Include="Mono.Cecil.Pdb">
-			<HintPath>C:\Users\info\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\cache\BepInEx-BepInExPack\5.4.2100\BepInExPack\BepInEx\core\Mono.Cecil.Pdb.dll</HintPath>
+			<HintPath>..\..\..\..\..\Games\Steam\steamapps\common\Lethal Company\BepInEx\core\Mono.Cecil.Pdb.dll</HintPath>
 		</Reference>
 		<Reference Include="Mono.Cecil.Rocks">
-			<HintPath>C:\Users\info\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\cache\BepInEx-BepInExPack\5.4.2100\BepInExPack\BepInEx\core\Mono.Cecil.Rocks.dll</HintPath>
+			<HintPath>..\..\..\..\..\Games\Steam\steamapps\common\Lethal Company\BepInEx\core\Mono.Cecil.Rocks.dll</HintPath>
 		</Reference>
 		<Reference Include="Mono.Security">
-			<HintPath>C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\Mono.Security.dll</HintPath>
+			<HintPath>..\..\..\..\..\Games\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\Mono.Security.dll</HintPath>
 		</Reference>
 		<Reference Include="MonoMod.RuntimeDetour">
-			<HintPath>C:\Users\info\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\cache\BepInEx-BepInExPack\5.4.2100\BepInExPack\BepInEx\core\MonoMod.RuntimeDetour.dll</HintPath>
+			<HintPath>..\..\..\..\..\Games\Steam\steamapps\common\Lethal Company\BepInEx\core\MonoMod.RuntimeDetour.dll</HintPath>
 		</Reference>
 		<Reference Include="MonoMod.Utils">
-			<HintPath>C:\Users\info\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\cache\BepInEx-BepInExPack\5.4.2100\BepInExPack\BepInEx\core\MonoMod.Utils.dll</HintPath>
+			<HintPath>..\..\..\..\..\Games\Steam\steamapps\common\Lethal Company\BepInEx\core\MonoMod.Utils.dll</HintPath>
 		</Reference>
-		<Reference Include="FuckYouMod">
-		  <HintPath>C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\MoreEmotes1.3.3.dll</HintPath>
+		<Reference Include="BetterEmotes Mod">
+		  <HintPath>..\..\..\..\..\Games\Steam\steamapps\common\Lethal Company\3rdParty\BetterEmotes.dll</HintPath>
 		</Reference>
 		<Reference Include="MoreCompany">
-		  <HintPath>..\MoreCompany\bin\Debug\netstandard2.1\MoreCompany.dll</HintPath>
+		  <HintPath>..\..\..\..\..\Games\Steam\steamapps\common\Lethal Company\3rdParty\MoreCompany.dll</HintPath>
 			<Version>100.0.0</Version>
 		</Reference>
 		<Reference Include="Unity.AI.Navigation">
-			<HintPath>C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\Unity.AI.Navigation.dll</HintPath>
+			<HintPath>..\..\..\..\..\Games\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\Unity.AI.Navigation.dll</HintPath>
 		</Reference>
 		<Reference Include="Newtonsoft.Json">
-			<HintPath>C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\Newtonsoft.Json.dll</HintPath>
+			<HintPath>..\..\..\..\..\Games\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\Newtonsoft.Json.dll</HintPath>
 		</Reference>
 		<Reference Include="Unity.Animation.Rigging">
 			<HintPath>C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\Unity.Animation.Rigging.dll</HintPath>
